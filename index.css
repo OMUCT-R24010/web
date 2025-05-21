@@ -2,6 +2,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
+  text_allign: center;
 }
 .header {
   background-color: white;
@@ -19,6 +20,9 @@ h1 {
   font-size: 150%;
   margin: 0 0;
   padding: .5em 0;
+}
+h2 {
+  
 }
 div {
   padding: 0vw 0vh;
